@@ -35,18 +35,6 @@
 
 ---
 
-#### 📬 Reach Me
-<p align="center">
-  <a href="https://www.instagram.com/awsdiyaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsdiyea" height="25" width="35" />
-  </a>
-  <a href="https://discord.gg/NZyQzXP" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NZyQzXP" height="25" width="35" />
-  </a>
-</p>
-
----
-
 #### 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awsdiyaa&show_icons=true&theme=dark&hide_border=true" alt="awsdiyaa" />
