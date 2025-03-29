@@ -1,18 +1,43 @@
-<h1 align="center">Hi 👋, I'm AwsDiyaa</h1>
-<h3 align="center">A Back-end developer</h3>
+<h1 align="center">👋 Aws Diyaa</h1>
+<h3 align="center">Back-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awsdiyaa&label=Profile%20views&color=0e75b6&style=flat" alt="awsdiyaa" /> </p>
-
-- 📢 I’m currently working on [Special Share](https://special-share.org/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/awsdiyea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsdiyea" height="30" width="40" /></a>
-<a href="https://discord.gg/NZyQzXP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NZyQzXP" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awsdiyaa&label=Views&color=brightgreen&style=flat-square" alt="awsdiyaa" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsdiyaa&show_icons=true&locale=en&layout=compact" alt="awsdiyaa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsdiyaa&show_icons=true&locale=en" alt="awsdiyaa" /></p>
+#### 🚀 What I Do
+- Crafting efficient and scalable back-end systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awsdiyaa&" alt="awsdiyaa" /></p>
+#### 🧠 Skills
+- **Core**: Python, JavaScript, SQL, PHP
+- **Tools**: REST APIs, Git, Linux
+- **Focus**: Performance optimization, clean code.
+
+---
+
+#### 📬 Reach Me
+<p align="center">
+  <a href="https://www.instagram.com/awsdiyaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsdiyea" height="25" width="35" />
+  </a>
+  <a href="https://discord.gg/NZyQzXP" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NZyQzXP" height="25" width="35" />
+  </a>
+</p>
+
+---
+
+#### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awsdiyaa&show_icons=true&theme=dark&hide_border=true" alt="awsdiyaa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awsdiyaa&theme=dark&hide_border=true" alt="awsdiyaa" />
+</p>
+
+---
+
+> "Code is like poetry—when it works, it’s magic."
